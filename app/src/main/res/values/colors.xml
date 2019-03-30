@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C8F8054A</color>
+    <color name="colorPrimaryDark">#C8F8054A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grayColor">#9AD3CFD0</color>
+    <color name="Heading">#E1F80536</color>
+    <color name="subTitle">#F02E0101</color>
+    <color name="textcolor">#6D181717</color>
+    <color name="switchcolor1">#C8F8054A</color>
+    <color name="switchcolor2">#158D8F</color>
+
+</resources>

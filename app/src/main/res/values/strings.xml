@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="para1">Age range preference allows us to suggest matches accordingly.Some matches may fall outside the specified range</string>
+    <string name="para2">Pick your gender preference</string>
+    <string name="para3">We strongly recommend to keep the notification ON.You don\'t want to miss a chat notification from your match</string>
+    <string name="para4">Here to only help friends? Just hide your profile and be a match-maker </string>
+    <string name="para5">Get notification continuously by whitelisting our app from battery optimisation</string>
+    <string name="para6">You will not appear as a potential date for others. You will only be a matchmaker</string>
+    <string name="para7">Select \"Not Optimised\"</string>
+</resources>
